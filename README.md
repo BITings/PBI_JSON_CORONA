@@ -1,10 +1,13 @@
 Coronavirus - Power BI Dataflows
+
 This project collates three JSON files which can be used to ingest a daily update on Coronavirus cases, deaths, and recoveries.
 
 Getting Started
+
 Ensure the files are saved as JSON before uploading to the Power BI Service. 
 
 Prerequisites
+
 Power BI Pro License.
 Internet connection for Power BI Service.
 
